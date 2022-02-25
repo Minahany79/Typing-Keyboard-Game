@@ -1,0 +1,9 @@
+.upcoming .word {
+    font-weight: 700!important;
+    padding: 0.5rem!important;
+    background-color: #0dcaf0!important;
+    border-radius: 0.3rem!important;
+    color: white;
+    margin: 3px 3px;
+
+}
